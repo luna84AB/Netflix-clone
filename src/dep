@@ -1,0 +1,31 @@
+https://build-netflix-clone-1bf42.web.app
+
+
+
+
+
+
+Compiled successfully.
+
+File sizes after gzip:
+
+  72.46 kB  build\static\js\main.19dbccce.js
+=== Deploying to 'build-netflix-clone-1bf42'...
+
+i  deploying hosting
+i  hosting[build-netflix-clone-1bf42]: beginning deploy...
+i  hosting[build-netflix-clone-1bf42]: found 12 files in build
++  hosting[build-netflix-clone-1bf42]: file upload complete
+i  hosting[build-netflix-clone-1bf42]: finalizing version...
++  hosting[build-netflix-clone-1bf42]: version finalized
+i  hosting[build-netflix-clone-1bf42]: releasing new version...
++  hosting[build-netflix-clone-1bf42]: release complete
+
++  Deploy complete!
+
+Project Console: https://console.firebase.google.com/project/build-netflix-clone-1bf42/overview
+Hosting URL: https://build-netflix-clone-1bf42.web.app
+
+User@zewdit MINGW64 ~/OneDrive/Desktop/EVANGADI-FOLDER/EVA-PROJECTS/Build Netflix-clone/my-app/build (master)
+$
+
